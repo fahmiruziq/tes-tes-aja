@@ -1,0 +1,3 @@
+Fahmi Resolusi
+- belajar dom
+- belajar git
