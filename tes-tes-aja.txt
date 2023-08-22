@@ -1,5 +1,4 @@
 Fahmi Resolusi
 - belajar dom
 - belajar git
-- resolusi baru
-- resolusi baru 2
+- buat vlog
