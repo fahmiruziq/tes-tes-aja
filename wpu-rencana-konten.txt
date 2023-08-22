@@ -1,3 +1,5 @@
 RENCANA KONTEN
 - Javascript
+  - ES6
+  - bla bla bla
 - PHP
